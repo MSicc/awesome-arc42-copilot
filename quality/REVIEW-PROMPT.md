@@ -22,7 +22,7 @@ This prompt guides systematic review of arc42 documentation files (instructions 
 Use this prompt for each section review:
 
 ```
-I need you to review arc42 Section 12 files for quality and accuracy.
+I need you to review arc42 Section [XX] files for quality and accuracy.
 
 **Files to Review:**
 - arc42-section-[XX]-instructions.md
